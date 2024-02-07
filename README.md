@@ -18,6 +18,7 @@ CSS: for the styling of the webpage.
 
 Save the HTML and CSS code in the same directory.
 Open the HTML file in a web browser to view the webpage.
-Note:
 
-This is a basic example and does not include any functionality such as adding items to the cart or processing payments.
+
+
+Note:  This is a basic example and does not include any functionality such as adding items to the cart or processing payments.
